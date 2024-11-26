@@ -1,0 +1,17 @@
+{
+  "name": "common-compiler-warnings",
+  "version": "0.0.2",
+  "description": "A library for cmake only containing common compiler warnings",
+  "homepage": "https://github.com/a4z/commonCompilerWarnings",
+  "license": "MIT",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    }
+  ]
+}

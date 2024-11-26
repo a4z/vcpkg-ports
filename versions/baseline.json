@@ -1,0 +1,8 @@
+{
+  "default": {
+    "common-compiler-warnings": {
+      "baseline": "0.0.2",
+      "port-version": 0
+    }
+  }
+}
