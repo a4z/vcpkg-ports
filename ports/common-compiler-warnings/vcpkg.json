@@ -1,6 +1,6 @@
 {
   "name": "common-compiler-warnings",
-  "version": "0.0.2",
+  "version": "0.9.1",
   "description": "A library for cmake only containing common compiler warnings",
   "homepage": "https://github.com/a4z/commonCompilerWarnings",
   "license": "MIT",
