@@ -4,7 +4,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO a4z/commonCompilerWarnings
     REF "${VERSION}"
-    SHA512 41c1c156b8cbd9be9b92fbbd06641bf67dc78f58ef4cf03f0037c5a7e6f0101620d96b4bbf0c876cec1ff69fdf53ab4c32573d70a0324d6cf34dcfbb27e6a313
+    SHA512 f69f7038e7bcc334de2a10c7f649997b8bebb99e98f05d37492d6f28beb2e27f28de1ab8ad836f5275bcac90f0811498665c2fcd0be010ee60453b10e845ac5e
     HEAD_REF main
 )
 
