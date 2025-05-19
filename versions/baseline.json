@@ -3,6 +3,10 @@
     "common-compiler-warnings": {
       "baseline": "0.9.1",
       "port-version": 0
+    },
+    "zq": {
+      "baseline": "0.1.1",
+      "port-version": 0
     }
   }
 }

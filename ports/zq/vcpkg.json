@@ -1,0 +1,27 @@
+{
+  "name": "zq",
+  "version": "0.1.1",
+  "description": "An opinionated ZeroMQ wrapper for C++",
+  "homepage": "https://github.com/a4z/zq",
+  "license": "MPL-2.0",
+  "dependencies": [
+    {
+      "name": "astr",
+      "host": true
+    },
+    {
+      "name": "doctest",
+      "host": true
+    },
+    "tl-expected",
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    "zeromq"
+  ]
+}
